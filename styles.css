@@ -7,16 +7,16 @@
 
 
 header {
-    margin: 47px 0 0 42px;
+    margin: 30px 0 0 30px;
 }
 
 .link-header {
     color: #17233D;
     text-align: center;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 400;
-    letter-spacing: 0.875px;
-    margin-right: 32px;
+    letter-spacing: 0.675px;
+    margin-right: 25px;
     cursor: pointer;
 }
 
@@ -35,10 +35,10 @@ header {
     border: 1px solid #4CB538;
     background: #6FBF44;
     color: #FFF;
-    font-size: 16px;
+    font-size: 13px;
     font-weight: 500;
     letter-spacing: 1px;
-    padding: 13px 29px;
+    padding: 8px 21px;
     cursor: pointer;
 }
 
@@ -55,7 +55,8 @@ header {
 
 img {
     display: inline-block;
-    margin: 163px 85px 0 121px;
+    margin: 100px 50px 0 90px;
+    width: 450px;
 }
 
 
@@ -66,28 +67,28 @@ section {
 
 h1 {
     color: #161A49;
-    font-size: 62px;
+    font-size: 45px;
     font-weight: 700;
-    line-height: 82px;
+    line-height: 52px;
     letter-spacing: 0.596px;
-    width: 582px;
+    width: 482px;
 }
 
 
 p {
-    width: 493px;
+    width: 393px;
     color: #4B505A;
-    font-size: 18px;
+    font-size: 13px;
     font-weight: 400;
-    line-height: 33px;
+    line-height: 27px;
     letter-spacing: 0.5px;
-    margin: 47px 0 55px 0;
+    margin: 22px 0 25px 0;
 }
 
 
 .link-main {
     color: #6FBF44;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 500;
     letter-spacing: 1px;
     cursor: pointer;
@@ -104,7 +105,7 @@ p {
 
 
 
-@media screen and (max-width: 1390px) {
+@media screen and (max-width: 1075px) {
 
     img {
        margin-left: 5px;
@@ -114,7 +115,7 @@ p {
 
 
 
-@media screen and (max-width: 1290px) {
+@media screen and (max-width: 995px) {
 
 
     * {
@@ -136,7 +137,6 @@ p {
         height: 31px;
         font-size: 12px;
         padding: 6px 15px;
-
     }
 
 
@@ -179,7 +179,7 @@ p {
 
 
 
-@media screen and (max-height: 750px) {
+@media screen and (max-width: 750px) {
 
 
     h1 {
