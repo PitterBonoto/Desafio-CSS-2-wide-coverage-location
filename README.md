@@ -13,6 +13,6 @@
 <h4>O vídeo abaixo mostra a responsividade do projeto para visualização em desktop ou mobile.</h4>
 <br>
 
-<video src="">
+<img src="https://raw.githubusercontent.com/PitterBonoto/Wide-coverage-location/9522cf4fb53adebd2ee6f7f9802203a3aabf00c2/Gif%20Wide%20coverage%20location.gif">
 
 
