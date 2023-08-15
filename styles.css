@@ -177,9 +177,7 @@ p {
 
 
 
-
-
-@media screen and (max-width: 750px) {
+@media screen and (max-height: 667px) and (max-width: 375px) {
 
 
     h1 {
@@ -197,3 +195,4 @@ p {
         margin: 20px 43px;
     }
 }
+
